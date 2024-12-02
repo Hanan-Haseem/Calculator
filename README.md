@@ -20,6 +20,17 @@ This is a **Simple Calculator** built using **HTML** and **CSS**. It provides ba
 
 ### Installation
 1. Download or clone the repository:
-- git clone https://github.com/username/simple-calculator.git
-  
+git clone https://github.com/hanan-haseem/Calculator.git
+
+2. Navigate to the project folder:
+cd Calculator
+
+---
+## Live Demo
+You can view the live version of the calculator by following this link:
+https://hanan-haseem.github.io/Calculator/
+
+---
+## Author
+Created by Hanan Haseem. If you have any feedback or suggestions, feel free to reach out!
 
