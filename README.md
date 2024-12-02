@@ -50,4 +50,4 @@ You can view the live version of the portfolio by following this link:
 ---
 
 ## ✍️ Author
-Created by Hanan Haseem 👨‍💻. If you have any feedback or suggestions, feel free to reach out!
+Created by **Hanan Haseem** 👨‍💻. If you have any feedback or suggestions, feel free to reach out!
